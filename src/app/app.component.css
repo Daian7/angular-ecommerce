@@ -1,0 +1,10 @@
+.container__app {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 15px;
+  background-color: white;
+  margin: 50px;
+  height: 500px;
+  position: relative;
+}
